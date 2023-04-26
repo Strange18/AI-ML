@@ -1,0 +1,10 @@
+Hospitals
+Children Hospitals
+ENT Hospitals
+Eye Hospitals
+Maternity Hospitals
+Mental Hospitals
+Multispeciality Hospitals
+Private Hospitals
+Public Hospitals
+Veterinary Hospitals
